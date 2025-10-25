@@ -74,7 +74,7 @@ const Navbar = () => {
               <SignedOut>
                 <SignInButton>
                   <button className="relative overflow-hidden bg-gradient-to-r from-emerald-500 via-green-500 to-teal-500 hover:from-emerald-600 hover:via-green-600 hover:to-teal-600 text-white px-3 sm:px-4 py-2 rounded-lg sm:rounded-xl text-xs sm:text-sm font-semibold shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 active:scale-95">
-                    <div>
+                    <div className="flex gap-1 justify-center items-center">
                       <span>Sign In</span>
                       <svg
                         className="w-3 h-3 sm:w-4 sm:h-4"
