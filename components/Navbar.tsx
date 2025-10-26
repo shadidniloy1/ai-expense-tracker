@@ -30,7 +30,7 @@ const Navbar = () => {
                   💰
                 </span>
               </div>
-              <span className="text-sm sm:text-base md:text-lg lg:text-xl font-bold bg-gradient-to-r from emerald-600 via-green-500 to-teal-500 bg-clip-text text-transparent">
+              <span className="text-sm sm:text-base md:text-lg lg:text-xl font-bold bg-gradient-to-r from-emerald-600 via-green-500 to-teal-500 bg-clip-text text-transparent">
                 <span className="hidden sm:inline">AI Expense Tracker</span>
                 <span className="sm:hidden">Expense Tracker</span>
               </span>
